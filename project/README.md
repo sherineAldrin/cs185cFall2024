@@ -3,6 +3,8 @@
 This project is my final project for the class CS185C.
 ## DISCLAIMER: My model only ended up running for about 30 min to an hour, so I only got minimal data. When I tried with the modified data to increase humidity, I somehow didn't get any data even though the model was running. This file more encapsulates what I wish could've been if everything went smoothly.
 
+## Credit to Professor Mike Wood for all the notebook templates and file templates.
+
 ## Science Question: How does increased humidity in in Florida's coast affect the ocean temperature?
 
 # Project Description
